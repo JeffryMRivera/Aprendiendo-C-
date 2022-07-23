@@ -1,0 +1,15 @@
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\bin\Debug\net6.0\Curso CSharp OpenBootcamp.exe
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\bin\Debug\net6.0\Curso CSharp OpenBootcamp.deps.json
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\bin\Debug\net6.0\Curso CSharp OpenBootcamp.runtimeconfig.json
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\bin\Debug\net6.0\Curso CSharp OpenBootcamp.dll
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\bin\Debug\net6.0\Curso CSharp OpenBootcamp.pdb
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.csproj.AssemblyReference.cache
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.AssemblyInfoInputs.cache
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.AssemblyInfo.cs
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.dll
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\refint\Curso CSharp OpenBootcamp.dll
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.pdb
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\Curso CSharp OpenBootcamp.genruntimeconfig.cache
+C:\Users\jeffr\OneDrive\Escritorio\Portafolio\Frontend\open bootcamp\c#\Curso OpenBootcamp\Curso CSharp OpenBootcamp\obj\Debug\net6.0\ref\Curso CSharp OpenBootcamp.dll
